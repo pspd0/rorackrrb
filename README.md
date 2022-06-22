@@ -10,7 +10,6 @@
   <h2>📞 연락 하는법 ! 📞</h2>
   <h3>Discord</h3>
   <p>pspd#0001</p>
-  <br>
   <h3>Email</h3>
   <p>rorack@naver.com</p>
 </div>
